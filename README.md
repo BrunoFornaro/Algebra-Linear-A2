@@ -3,5 +3,5 @@ Trabalho de Álgebra Linear sobre regressão linear com aplicação em dados rea
 
 Integrantes:
 - Bruno Pereira Fornaro - B44398
-- Gustavo Rozas
+- Gustavo Rozas -  B42592
 - Vitória Vianna
